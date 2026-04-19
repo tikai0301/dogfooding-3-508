@@ -1,0 +1,11 @@
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\controller\UserController.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\exception\GlobalExceptionHandler.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\repository\impl\UserRepositoryImpl.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\model\User.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\service\impl\UserServiceImpl.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\exception\BusinessException.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\common\Result.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\UserManagementApplication.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\util\JsonFileUtil.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\repository\UserRepository.java
+E:\deepseekApi\重构\02\glm\backend\src\main\java\com\example\usermanagement\service\UserService.java
